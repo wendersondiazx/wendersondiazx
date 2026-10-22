@@ -2,7 +2,7 @@
 
 # Wenderson Dias
 
-**Systems Programming · Embedded Development · Electronics**
+**Systems Programming · Embedded Development · Electronics · Reverse Engineering**
 
 Brazilian developer who enjoys understanding how things work close to the hardware — and building them from scratch.
 
