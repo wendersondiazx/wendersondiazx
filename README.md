@@ -44,7 +44,7 @@ I build projects to learn how the underlying systems work. If something looks in
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-wendersondiazx?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/wendersondiazx">
 </picture>
 
 
