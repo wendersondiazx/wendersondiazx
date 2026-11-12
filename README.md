@@ -6,7 +6,7 @@
 
 Brazilian developer who enjoys understanding how things work close to the hardware — and building them from scratch.
 
-Creator of **[forkut.net](https://forkut.net) and [welabsdev community](https://welabsdev.site)**.
+Creator of **[forkut.net](https://forkut.net) and [Zero Trusted Corp](https://zerotrusted.net)**.
 
 [LinkedIn](https://www.linkedin.com/in/wendersondias) · [GitHub](https://github.com/welabsdev) · [Website](https://welabsdev.site) · [Email](mailto:contato@welabsdev.site)
 
