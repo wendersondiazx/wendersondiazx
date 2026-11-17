@@ -40,8 +40,6 @@ I'm also the founder of **[The Archlevel Foundation](https://github.com/thearchl
 
 I build projects to learn how the underlying systems work. If something looks interesting, I'll probably try implementing it myself.
 
-### Languages
-
 <div align="center">
 
 <picture>
